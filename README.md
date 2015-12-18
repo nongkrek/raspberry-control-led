@@ -12,3 +12,5 @@ This article explain about web application using HTML and PHP for control (turn 
   9.	Access Point/Router Mikrotik.
 Before assemble that parts, we have to understand about pin and GPIO of Raspberry Pi 2 Model B. 
 Sebelum merangkai komponen tersebut, harus dipahami arsitektur pin dari GPIO Raspberry Pi 2 Model B. Here is the architecture of pin and GPIO of Raspberry Pi 2 Model B.
+
+![ScreenShot](https://{http://yaddarabullah.net/raspberry-control-led/Pin-GPIO-Raspberry.png})
